@@ -1,7 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef24fbb2-1efa-436a-abc2-d5d21e588b56" name="Default Changelist" comment="The first commit for the arkanoid game" />
+    <list default="true" id="ef24fbb2-1efa-436a-abc2-d5d21e588b56" name="Default Changelist" comment="The first commit for the arkanoid game">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ass3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/biuoop-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/biuoop_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Ass6Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/Animations/Animation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/Animations/AnimationRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/Animations/CountdownAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/Animations/GameLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/Animations/KeyPressStoppableAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/Animations/screens/GameOver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/Animations/screens/PauseScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/Animations/screens/YouWin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/Ass6Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/GameFlow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/Animations/Animation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/Animations/AnimationRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/Animations/CountdownAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/Animations/GameLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/Animations/KeyPressStoppableAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/Animations/screens/GameOver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/Animations/screens/PauseScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/Animations/screens/YouWin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/GameFlow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/AbstractBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/Background.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/BasicBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/backgrounds/CloudsBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/backgrounds/HappyBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/backgrounds/PauseBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/backgrounds/SadBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/backgrounds/ShadowBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/backgrounds/SpaceBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/backgrounds/SpongebobBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/backgrounds/StreetBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/backgrounds/SunBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/background/backgrounds/TargetBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/gui/ball/Velocity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/levels/DirectHit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/levels/FinalFour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/levels/Green3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/levels/LevelInformation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/levels/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/levels/WideEasy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/observer/BallAdder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/observer/BallRemover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/observer/BlockRemover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/observer/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/observer/HitListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/observer/HitNotifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/observer/ScoreTrackingListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/Ball.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/Sprite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/SpriteCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/collidables/Block.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/collidables/Collidable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/collidables/CollisionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/collidables/GameEnvironment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/collidables/Paddle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/indicators/Indicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/indicators/IndicatorsLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/indicators/LiveIndicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/indicators/NameIndicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/game/sprites/indicators/ScoreIndicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/AbstractBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/Background.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/BasicBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/backgrounds/CloudsBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/backgrounds/HappyBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/backgrounds/PauseBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/backgrounds/SadBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/backgrounds/ShadowBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/backgrounds/SpaceBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/backgrounds/SpongebobBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/backgrounds/StreetBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/backgrounds/SunBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/background/backgrounds/TargetBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/gui/ball/Velocity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/levels/DirectHit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/levels/FinalFour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/levels/Green3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/levels/LevelInformation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/levels/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/levels/WideEasy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/observer/BallAdder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/observer/BallRemover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/observer/BlockRemover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/observer/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/observer/HitListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/observer/HitNotifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/observer/ScoreTrackingListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/Ball.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/Sprite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/SpriteCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/collidables/Block.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/collidables/Collidable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/collidables/CollisionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/collidables/GameEnvironment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/collidables/Paddle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/indicators/Indicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/indicators/IndicatorsLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/indicators/LiveIndicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/indicators/NameIndicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/arkanoid/sprites/indicators/ScoreIndicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biuoop-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biuoop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkstyle-5.7-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/Ass6Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/Animations/Animation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/Animations/AnimationRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/Animations/CountdownAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/Animations/GameLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/Animations/KeyPressStoppableAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/Animations/screens/GameOver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/Animations/screens/PauseScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/Animations/screens/YouWin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/GameFlow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/AbstractBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/Background.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/BasicBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/backgrounds/CloudsBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/backgrounds/HappyBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/backgrounds/PauseBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/backgrounds/SadBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/backgrounds/ShadowBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/backgrounds/SpaceBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/backgrounds/SpongebobBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/backgrounds/StreetBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/backgrounds/SunBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/background/backgrounds/TargetBackground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/gui/ball/Velocity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/levels/DirectHit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/levels/FinalFour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/levels/Green3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/levels/LevelInformation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/levels/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/levels/WideEasy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/observer/BallAdder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/observer/BallRemover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/observer/BlockRemover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/observer/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/observer/HitListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/observer/HitNotifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/observer/ScoreTrackingListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/Ball.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/Sprite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/SpriteCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/collidables/Block.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/collidables/Collidable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/collidables/CollisionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/collidables/GameEnvironment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/collidables/Paddle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/indicators/Indicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/indicators/IndicatorsLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/indicators/LiveIndicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/indicators/NameIndicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ass3/arkanoid/sprites/indicators/ScoreIndicator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ass6Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/Animations/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/Animations/AnimationRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/Animations/CountdownAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/Animations/GameLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/Animations/KeyPressStoppableAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/Animations/screens/GameOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/Animations/screens/PauseScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/Animations/screens/YouWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/GameFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/AbstractBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/Background.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/BasicBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/backgrounds/CloudsBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/backgrounds/HappyBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/backgrounds/PauseBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/backgrounds/SadBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/backgrounds/ShadowBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/backgrounds/SpaceBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/backgrounds/SpongebobBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/backgrounds/StreetBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/backgrounds/SunBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/background/backgrounds/TargetBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/gui/ball/Velocity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/levels/DirectHit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/levels/FinalFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/levels/Green3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/levels/LevelInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/levels/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/levels/WideEasy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/observer/BallAdder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/observer/BallRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/observer/BlockRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/observer/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/observer/HitListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/observer/HitNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/observer/ScoreTrackingListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/Sprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/SpriteCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/collidables/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/collidables/Collidable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/collidables/CollisionInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/collidables/GameEnvironment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/collidables/Paddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/indicators/Indicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/indicators/IndicatorsLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/indicators/LiveIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/indicators/NameIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arkanoid/sprites/indicators/ScoreIndicator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +401,15 @@
       <workItem from="1624265341510" duration="114000" />
       <workItem from="1624265712727" duration="89000" />
       <workItem from="1627377115104" duration="725000" />
+      <workItem from="1634291373601" duration="286000" />
     </task>
+    <task id="LOCAL‎00001" summary="Initial commit">
+      <created>1634291643250</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1634291643250</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +425,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
