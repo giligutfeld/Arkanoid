@@ -9,9 +9,6 @@ You must have Java SE 10 or higher installed on your machine.
 You can download the added _Arkanoid.jar_ (located [here](https://github.com/matanmkl/Arkanoid/tree/master/out/artifacts/Arkanoid "This path skips through empty directories")). run it and play around :).
 Also, you can download the entire source code and run the gameLevel via any Java IDE.
 
-![Arkanoid Game](https://github.com/matanmkl/Arkanoid/blob/master/Images/Arkanoid.JPG)
-We will be adding the following capabilities:
-
 ## The Goal
 -	Remove all blocks in each level by striking them with the ball
 
