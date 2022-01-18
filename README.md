@@ -6,7 +6,7 @@ This project was coded using a single thread, which is rare for games such as th
 
 ## Compiling and Running
 You must have Java SE 10 or higher installed on your machine.
-Also, you can download the entire source code and run the gameLevel via any Java IDE.
+Also, you can download the entire source code and run the game via any Java IDE.
 
 ## The Goal
 -	Remove all blocks in each level by striking them with the ball
