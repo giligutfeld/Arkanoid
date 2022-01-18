@@ -9,6 +9,8 @@ You must have Java SE 10 or higher installed on your machine.
 You can download the added _Arkanoid.jar_ (located [here](https://github.com/matanmkl/Arkanoid/tree/master/out/artifacts/Arkanoid "This path skips through empty directories")). run it and play around :).
 Also, you can download the entire source code and run the gameLevel via any Java IDE.
 
+![Arkanoid Game](https://github.com/giligutfeld/Arkanoid/blob/b50c27ec07252bad197941fa153824097facbe4f/Final_Four.png)
+
 ## The Goal
 -	Remove all blocks in each level by striking them with the ball
 
@@ -19,5 +21,4 @@ Also, you can download the entire source code and run the gameLevel via any Java
 - Whenever you clear all the blocks on one level, you move to another, more challenging one. 
 - The score should carry on from level to level. If you finish the last level, you win the game.
 
-
-![Arkanoid Game](https://github.com/giligutfeld/Arkanoid/master/Pictures/The_monster.png)
+![Arkanoid Game](https://github.com/giligutfeld/Arkanoid/blob/b50c27ec07252bad197941fa153824097facbe4f/The_monster.png)
