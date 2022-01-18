@@ -20,4 +20,4 @@ Also, you can download the entire source code and run the gameLevel via any Java
 - The score should carry on from level to level. If you finish the last level, you win the game.
 
 
-![Arkanoid Game](https://github.com/matanmkl/Arkanoid/blob/master/Images/Arkanoid.JPG)
+![Arkanoid Game](https://github.com/giligutfeld/Arkanoid/master/Pictures/The_monster.png)
